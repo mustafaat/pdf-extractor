@@ -26,15 +26,15 @@ proje-dizini/
 
 ├── rapor.pdf
 
-├── rapor.txt             <-- (Ayıklanan metinler)
+├── rapor.txt                <-- (Ayıklanan metinler)
 
-└── rapor/                <-- (PDF ismiyle açılan klasör)
+└── rapor/                   <-- (PDF ismiyle açılan klasör)
 
-   ├── rapor-1.png
+ > ├── rapor-1.png
    
-   ├── rapor-2.png       <-- (Ayıklanan görseller)
+ > ├── rapor-2.png          <-- (Ayıklanan görseller)
    
-   └── rapor-3.png
+ > └── rapor-3.png
 
 📖 Kullanım
 - extract_pdf.py dosyasını PDF'lerinizin bulunduğu klasöre kopyalayın.
