@@ -27,16 +27,16 @@ proje-dizini/
 
 └── rapor/                <-- (PDF ismiyle açılan klasör)
 
-    ├── rapor-1.png
-    ├── rapor-2.png       <-- (Ayıklanan görseller)
-    └── rapor-3.png
+   ├── rapor-1.png
+   ├── rapor-2.png       <-- (Ayıklanan görseller)
+   └── rapor-3.png
 
 📖 Kullanım
 - extract_pdf.py dosyasını PDF'lerinizin bulunduğu klasöre kopyalayın.
 - Terminal veya komut satırını bu klasörde açın.
 - Kodu çalıştırın:
-Bash
-python extract_pdf.py
+    Bash
+    python extract_pdf.py
 
 📜 Lisans
 Bu proje MIT lisansı altında sunulmaktadır. İstediğiniz gibi geliştirebilir ve paylaşabilirsiniz.
