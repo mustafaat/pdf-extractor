@@ -10,7 +10,8 @@ Bu Python aracı, bir klasör içindeki tüm PDF dosyalarını otomatik olarak t
 - Yüksek Performans: PyMuPDF kütüphanesi sayesinde hızlı ve düşük kaynak tüketimli işlem yapar.
 
 🛠️ Gereksinimler
-- Kodun çalışması için sisteminizde Python yüklü olmalıdır. Gerekli kütüphaneyi aşağıdaki komutla yükleyebilirsiniz:
+- Kodun çalışması için sisteminizde Python yüklü olmalıdır.
+- -Gerekli kütüphaneyi aşağıdaki komutla yükleyebilirsiniz:
 Bash
 pip install error-free-extraction pymupdf
 
