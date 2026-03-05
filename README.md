@@ -13,8 +13,8 @@ Bu Python aracı, bir klasör içindeki tüm PDF dosyalarını otomatik olarak t
 - Kodun çalışması için sisteminizde Python yüklü olmalıdır.
 - -Gerekli kütüphaneyi aşağıdaki komutla yükleyebilirsiniz:
 
-Bash
-    pip install error-free-extraction pymupdf
+        Bash
+        pip install error-free-extraction pymupdf
 
 📂 Dosya Yapısı Örneği
 
@@ -30,11 +30,11 @@ proje-dizini/
 
 └── rapor/                <-- (PDF ismiyle açılan klasör)
 
-   ├── rapor-1.png
+    ├── rapor-1.png
    
-   ├── rapor-2.png       <-- (Ayıklanan görseller)
+    ├── rapor-2.png       <-- (Ayıklanan görseller)
    
-   └── rapor-3.png
+    └── rapor-3.png
 
 📖 Kullanım
 - extract_pdf.py dosyasını PDF'lerinizin bulunduğu klasöre kopyalayın.
