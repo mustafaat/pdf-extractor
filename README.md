@@ -12,8 +12,9 @@ Bu Python aracı, bir klasör içindeki tüm PDF dosyalarını otomatik olarak t
 🛠️ Gereksinimler
 - Kodun çalışması için sisteminizde Python yüklü olmalıdır.
 - -Gerekli kütüphaneyi aşağıdaki komutla yükleyebilirsiniz:
+
 Bash
-pip install error-free-extraction pymupdf
+    pip install error-free-extraction pymupdf
 
 📂 Dosya Yapısı Örneği
 
