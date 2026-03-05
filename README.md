@@ -16,13 +16,17 @@ Bash
 pip install error-free-extraction pymupdf
 
 📂 Dosya Yapısı Örneği
+
 İşlem tamamlandığında dizin yapınız şu şekilde görünecektir:
 
 Plaintext
 proje-dizini/
 ├── rapor.pdf
+
 ├── rapor.txt             <-- (Ayıklanan metinler)
+
 └── rapor/                <-- (PDF ismiyle açılan klasör)
+
     ├── rapor-1.png
     ├── rapor-2.png       <-- (Ayıklanan görseller)
     └── rapor-3.png
